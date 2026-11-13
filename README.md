@@ -1,2 +1,3 @@
 # opl-lang
-Repo of the OSINT Programming Language.
+
+Welcome to the official repository of the OSINT Programming Language (OPL).
